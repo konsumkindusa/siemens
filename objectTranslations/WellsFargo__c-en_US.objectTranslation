@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>WellsFargo</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>WellsFargos</value>
+    </caseValues>
+    <fields>
+        <label><!-- Well Fargo Email Field --></label>
+        <name>Well_Fargo_Email_Fields__c</name>
+    </fields>
+    <fields>
+        <help><!-- demo check box --></help>
+        <label><!-- WellsCheck --></label>
+        <name>WellsCheck__c</name>
+    </fields>
+    <fields>
+        <label><!-- WellsFargo Picklist --></label>
+        <name>WellsFargo_Picklist__c</name>
+        <picklistValues>
+            <masterLabel>Value01</masterLabel>
+            <translation><!-- Value01 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value02</masterLabel>
+            <translation><!-- Value02 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value03</masterLabel>
+            <translation><!-- Value03 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value04</masterLabel>
+            <translation><!-- Value04 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value05</masterLabel>
+            <translation><!-- Value05 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Wells Fargo CheckBox --></label>
+        <name>Wells_Fargo_CheckBox__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
