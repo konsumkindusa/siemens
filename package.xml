@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
+        <members>ProdDiscount</members>
         <members>SApex2</members>
         <members>SApexTest2</members>
         <members>WFApex1</members>
@@ -90,6 +91,7 @@
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
         <members>Patobject__c.Pick__c</members>
+        <members>Siemens_CT_Scanner__c.Configuration__c</members>
         <members>Test1__c.Testpick__c</members>
         <members>Test2__c.testpick__c</members>
         <members>Trimble3__c.Trimblepick__c</members>
@@ -159,6 +161,7 @@
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
         <members>ScorecardMetric</members>
+        <members>Siemens_CT_Scanner__c</members>
         <members>SimonTestingTAF__c</members>
         <members>Site</members>
         <members>SocialPersona</members>
@@ -281,6 +284,7 @@
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
+        <members>Siemens_CT_Scanner__c-Siemens CT Scanner Layout</members>
         <members>SimonTestingTAF__c-SimonTestingTAF Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
