@@ -1353,6 +1353,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Siemens_CT_Scanner__c.Configuration__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1540,6 +1545,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ScorecardMetric-Scorecard Metric Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Siemens_CT_Scanner__c-Siemens CT Scanner Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>SimonTestingTAF__c-SimonTestingTAF Layout</layout>
